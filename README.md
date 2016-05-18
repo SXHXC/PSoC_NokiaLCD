@@ -1,2 +1,2 @@
 # PSoC_NokiaLCD
-Using the library PSoC1 to PSoC 4 - 5
+Using the library PSoC1 (AN2152) to PSoC 4 - 5
